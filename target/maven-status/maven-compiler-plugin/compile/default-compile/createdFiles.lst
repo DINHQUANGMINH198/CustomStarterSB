@@ -1,0 +1,6 @@
+redis\RedisConnectorAutoConfiguration.class
+redis\RedisConnector.class
+redis\RedisConnectorImpl.class
+hello\HelloServiceAutoConfiguration.class
+hello\ConsoleHelloService.class
+hello\HelloService.class
