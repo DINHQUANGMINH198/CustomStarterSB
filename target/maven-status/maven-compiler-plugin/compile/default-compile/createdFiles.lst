@@ -1,6 +1,6 @@
-redis\RedisConnectorAutoConfiguration.class
-redis\RedisConnector.class
-redis\RedisConnectorImpl.class
+redis_connector\RedisConnector.class
 hello\HelloServiceAutoConfiguration.class
+redis_connector\RedisConnectorAutoConfiguration.class
 hello\ConsoleHelloService.class
 hello\HelloService.class
+redis_connector\RedisConnectorImpl.class

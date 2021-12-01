@@ -1,4 +1,4 @@
-package redis;
+package redis_connector;
 
 public class RedisConnectorImpl implements RedisConnector {
     public void connect() {
